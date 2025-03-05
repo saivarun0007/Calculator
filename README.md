@@ -46,7 +46,7 @@ A simple web-based calculator built using HTML, CSS, and JavaScript.
 
 ## Screenshots
 
-![Calculator UI](./img/calculator.png) 
+![Calculator UI](./calculator.png) 
 
 ## Setup
 
