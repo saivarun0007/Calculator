@@ -54,7 +54,7 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/saivarun0007/Calculator.git>
 Open index.html in your browser.
 
 2. Open index.html in your browser.
